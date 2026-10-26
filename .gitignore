@@ -1,0 +1,14 @@
+# Dataset and saved models
+*.csv
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Editor settings
+.vscode/
